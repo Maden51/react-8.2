@@ -1,1 +1,1 @@
-deployed on https://maden51.github.io/react-8.2-front/
+deployed on https://maden51.github.io/react-8.2/
